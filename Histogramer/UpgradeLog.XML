@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?><?xml-stylesheet type='text/xsl' href='_UpgradeReport_Files/UpgradeReport.xslt'?><UpgradeLog>
+<Properties><Property Name="Solution" Value="Histogramer">
+</Property><Property Name="Файл решения" Value="C:\Users\Анна\Desktop\Histogramer\Histogramer.sln">
+</Property><Property Name="Date" Value="24 октября 2014 г.">
+</Property><Property Name="Time" Value="22:22">
+</Property></Properties><Event ErrorLevel="0" Project="Histogramer" Source="Histogramer\Histogramer.vcproj" Description="Converting project file 'C:\Users\Анна\Desktop\Histogramer\Histogramer\Histogramer.vcproj'.">
+</Event><Event ErrorLevel="1" Project="Histogramer" Source="Histogramer\Histogramer.vcproj" Description="VCWebServiceProxyGeneratorTool is no longer supported. The tool has been removed from your project settings.">
+</Event><Event ErrorLevel="0" Project="Histogramer" Source="Histogramer\Histogramer.vcproj" Description="Done converting to new project file 'C:\Users\Анна\Desktop\Histogramer\Histogramer\Histogramer.vcxproj'.">
+</Event><Event ErrorLevel="3" Project="Histogramer" Source="Histogramer\Histogramer.vcproj" Description="Converted">
+</Event><Event ErrorLevel="0" Project="" Source="Histogramer.sln" Description="Преобразование решения успешно завершено">
+</Event><Event ErrorLevel="3" Project="" Source="Histogramer.sln" Description="Converted">
+</Event></UpgradeLog>
